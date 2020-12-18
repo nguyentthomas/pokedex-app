@@ -7,5 +7,8 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="React.AspNet" Version="5.2.11" />
+    <PackageReference Include="JavaScriptEngineSwitcher.V8" Version="3.9.0" />
+    <PackageReference Include="JavaScriptEngineSwitcher.Extensions.MsDependencyInjection" Version="3.3.0" />
   </ItemGroup>
 </Project>
